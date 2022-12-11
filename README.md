@@ -1,7 +1,7 @@
 # fixed-thread-889 - Wardrobe.com
 
 ## Objective:
-To create a e-commerce web model for shopping clothings, for user to search, choose clothings and admins to manage data.
+To create an e-commerce web model for shopping clothings, for user to search, choose clothings and admins to manage data.
 
 ## Description:
 
